@@ -1,0 +1,12 @@
+Feature,Coefficient
+tenure,-1.0620424616024358
+MonthlyCharges,0.9850362410117094
+Contract_encoded,-0.6754864594957769
+num_services,-0.5653882860049388
+TotalCharges,0.45792880735737307
+PaperlessBilling_encoded,0.22460409706854007
+Dependents_encoded,-0.12633206726969573
+InternetService_encoded,-0.11054945575435125
+SeniorCitizen,0.09353727904350562
+PaymentMethod_encoded,0.09060491105663694
+Partner_encoded,0.026952616111886134

@@ -1,0 +1,6 @@
+Customer_Segment,Customer_Count,Churn_Rate,Avg_Monthly_Revenue,Avg_CLV,Avg_Tenure
+At Risk,1517,27.03,36.72,408.78,15.72
+Champions,1952,17.98,95.11,5279.25,55.74
+Lost,412,26.7,21.91,72.06,3.31
+Loyal,1377,31.45,76.41,2360.49,33.95
+Potential,1785,31.65,56.32,1036.3,26.45
