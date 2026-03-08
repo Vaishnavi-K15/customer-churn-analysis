@@ -118,6 +118,7 @@ Tracked retention rates across tenure groups:
 
 ## Dashboard
 
+![Dashboard Preview](images/dashboard_preview.png)
 **Interactive Tableau Dashboard:** [View Live Dashboard](https://public.tableau.com/views/Customer_Churn_Analysis_17724843987630/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 The dashboard provides:
