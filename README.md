@@ -116,6 +116,23 @@ Tracked retention rates across tenure groups:
 - Revenue preserved: $400K-500K annually
 - Customer acquisition savings: $200K-300K (reduced replacement needs)
 
+## Dashboard
+
+**Interactive Tableau Dashboard:** [View Live Dashboard](https://public.tableau.com/views/Customer_Churn_Analysis_17724843987630/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+The dashboard provides:
+- Real-time customer segmentation analysis
+- Churn patterns by contract type and tenure
+- CLV analysis by customer segment
+- Revenue impact visualization ($139K monthly revenue at risk)
+- Interactive filtering by segment and contract type
+
+**Key Dashboard Insights:**
+- Month-to-month contracts drive 42.7% churn vs 2.8% for two-year contracts
+- First 12 months critical: 47.7% churn drops to 9.5% after 48 months
+- Champions segment: Highest CLV ($5,279) with lowest churn (18%)
+- 5-segment retention strategy with 141% projected ROI
+
 ## Project Structure
 ```
 Customer_Churn_Analysis/
@@ -153,8 +170,8 @@ Customer_Churn_Analysis/
 - **Python 3.12:** pandas, numpy, scikit-learn
 - **Analysis:** RFM segmentation, cohort analysis, CLV calculation
 - **Modeling:** Logistic Regression with class balancing
-- **Visualization:** Matplotlib, Seaborn
-- **Dashboard:** Power BI (in progress)
+- **Visualization:** Matplotlib, Seaborn, Tableau Public
+- **Dashboard:** Interactive Tableau Public dashboard with drill-down capabilities
 
 ## Key Learnings
 1. **Segmentation Drives Strategy:** Different customer segments need different retention approaches
